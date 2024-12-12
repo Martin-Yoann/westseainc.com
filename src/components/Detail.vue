@@ -3,7 +3,7 @@
       <div></div>
       <div></div>
       <div>
-        Email: <span>******@**.com</span>
+        <span>Email:<i>cs@westseainc.com</i></span>
       </div>
     </div>
   </template>
